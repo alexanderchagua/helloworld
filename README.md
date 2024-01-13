@@ -14,5 +14,5 @@ This is a demonstration of how the Python program works, utilizing a "Hello Worl
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=wWwr0tDSqnE&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=7)
+* [Microsoft Developer](https://www.youtube.com/watch?v=wWwr0tDSqnE&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=7)
 * [This is my favorite link](https://www.w3schools.com/python/default.asp)
